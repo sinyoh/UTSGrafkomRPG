@@ -9,7 +9,7 @@ Angelo Brian C14200062
 
 Maro Enverico C14200080
 
-Link Google Drive:
+Link Google Drive Video:
 https://drive.google.com/drive/folders/1rTS7b_NEfbR95oyKnvFecaSmJeLkwmd4
 
 Link Laporan: 
