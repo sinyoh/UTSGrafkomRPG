@@ -1,8 +1,12 @@
 # UTSGrafkomRPG
 Kelompok 28 Grafika Komputer
+
 Anggota Kelompok:
+
 Winston Hariyanto C14200023
+
 Angelo Brian C14200062
+
 Maro Enverico C14200080
 
 Link Google Drive:
