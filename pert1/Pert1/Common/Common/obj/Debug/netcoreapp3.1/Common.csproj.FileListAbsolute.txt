@@ -1,0 +1,29 @@
+E:\Asisten Grafkom\LearnOpenTK-master  4.0\LearnOpenTK-master\Common\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.deps.json
+E:\Asisten Grafkom\LearnOpenTK-master  4.0\LearnOpenTK-master\Common\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.dll
+E:\Asisten Grafkom\LearnOpenTK-master  4.0\LearnOpenTK-master\Common\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.pdb
+E:\Asisten Grafkom\LearnOpenTK-master  4.0\LearnOpenTK-master\Common\obj\Debug\netcoreapp3.1\Common.csprojAssemblyReference.cache
+E:\Asisten Grafkom\LearnOpenTK-master  4.0\LearnOpenTK-master\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfoInputs.cache
+E:\Asisten Grafkom\LearnOpenTK-master  4.0\LearnOpenTK-master\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfo.cs
+E:\Asisten Grafkom\LearnOpenTK-master  4.0\LearnOpenTK-master\Common\obj\Debug\netcoreapp3.1\Common.csproj.CoreCompileInputs.cache
+E:\Asisten Grafkom\LearnOpenTK-master  4.0\LearnOpenTK-master\Common\obj\Debug\netcoreapp3.1\LearnOpenTK.Common.dll
+E:\Asisten Grafkom\LearnOpenTK-master  4.0\LearnOpenTK-master\Common\obj\Debug\netcoreapp3.1\LearnOpenTK.Common.pdb
+C:\Users\Public.SI\source\repos\Pert1\Common\Common\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.deps.json
+C:\Users\Public.SI\source\repos\Pert1\Common\Common\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.dll
+C:\Users\Public.SI\source\repos\Pert1\Common\Common\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.pdb
+C:\Users\Public.SI\source\repos\Pert1\Common\Common\obj\Debug\netcoreapp3.1\Common.csproj.AssemblyReference.cache
+C:\Users\Public.SI\source\repos\Pert1\Common\Common\obj\Debug\netcoreapp3.1\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Public.SI\source\repos\Pert1\Common\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfoInputs.cache
+C:\Users\Public.SI\source\repos\Pert1\Common\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfo.cs
+C:\Users\Public.SI\source\repos\Pert1\Common\Common\obj\Debug\netcoreapp3.1\Common.csproj.CoreCompileInputs.cache
+C:\Users\Public.SI\source\repos\Pert1\Common\Common\obj\Debug\netcoreapp3.1\LearnOpenTK.Common.dll
+C:\Users\Public.SI\source\repos\Pert1\Common\Common\obj\Debug\netcoreapp3.1\LearnOpenTK.Common.pdb
+C:\Winston\Kuliah\semester 4\Grafkom\pert1\Pert1\Common\Common\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.deps.json
+C:\Winston\Kuliah\semester 4\Grafkom\pert1\Pert1\Common\Common\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.dll
+C:\Winston\Kuliah\semester 4\Grafkom\pert1\Pert1\Common\Common\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.pdb
+C:\Winston\Kuliah\semester 4\Grafkom\pert1\Pert1\Common\Common\obj\Debug\netcoreapp3.1\Common.csproj.AssemblyReference.cache
+C:\Winston\Kuliah\semester 4\Grafkom\pert1\Pert1\Common\Common\obj\Debug\netcoreapp3.1\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Winston\Kuliah\semester 4\Grafkom\pert1\Pert1\Common\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfoInputs.cache
+C:\Winston\Kuliah\semester 4\Grafkom\pert1\Pert1\Common\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfo.cs
+C:\Winston\Kuliah\semester 4\Grafkom\pert1\Pert1\Common\Common\obj\Debug\netcoreapp3.1\Common.csproj.CoreCompileInputs.cache
+C:\Winston\Kuliah\semester 4\Grafkom\pert1\Pert1\Common\Common\obj\Debug\netcoreapp3.1\LearnOpenTK.Common.dll
+C:\Winston\Kuliah\semester 4\Grafkom\pert1\Pert1\Common\Common\obj\Debug\netcoreapp3.1\LearnOpenTK.Common.pdb
